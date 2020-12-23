@@ -8,5 +8,8 @@
 
 class FileTool
 {
-
+    public function test()
+    {
+        return true;
+    }
 }
