@@ -1,5 +1,5 @@
 {
-    "name": "TestSdk/web-tool",
+    "name": "testsdk/web-tool",
     "description": "try make a package mdc test",
     "type": "library",
     "license": "Apache-2.0",
