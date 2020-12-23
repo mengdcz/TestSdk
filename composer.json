@@ -1,0 +1,22 @@
+{
+    "name": "xwolf/web-tool",
+    "description": "try make a package mdc test",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "mengdechang",
+            "email": "2326945617@qq.com"
+        }
+    ],
+    "homepage": "https://github.com/mengdcz/TestSdk",
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.4.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "WebTool\\": "src/"
+      }
+    }
+}
